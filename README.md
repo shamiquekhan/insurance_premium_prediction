@@ -13,5 +13,3 @@ How to run:
 pip install scikit-learn pandas numpy matplotlib
 ```
 
-Notes:
-- This folder is prepared to become a separate repository. Use `scripts/package_repos.py` to copy the notebook, initialize a git repo, and optionally push to GitHub.
